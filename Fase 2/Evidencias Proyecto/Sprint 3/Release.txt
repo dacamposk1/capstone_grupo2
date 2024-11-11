@@ -1,0 +1,3 @@
+En el siguiente repositorio se encuentran los releases de cada sprint.
+
+https://github.com/dacamposk1/AppFarmacia
